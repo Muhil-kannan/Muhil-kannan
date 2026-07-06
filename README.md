@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b1c,100:00FF41&height=250&section=header&text=MUHIL%20KANNAN%20M&fontSize=48&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20·%20LLM%20%2F%20AI%20Platforms%20%2F%20Cloud%20SaaS&descAlignY=53&descAlign=50&descColor=39FF14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b1c,100:00FF41&height=250&section=header&text=MUHIL%20KANNAN%20M&fontSize=48&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20LLM%20%2F%20AI%20Platforms%20%2F%20Cloud%20SaaS&descAlignY=53&descAlign=50&descColor=39FF14"/>
 
 <a href="https://linkedin.com/in/muhil-kannan"><img src="https://img.shields.io/badge/LinkedIn-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117"/></a>
 <a href="https://muhil.netlify.app"><img src="https://img.shields.io/badge/Portfolio-visit-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0d1117"/></a>
@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=800&height=50&lines=const+engineer+%3D+%7B+role%3A+%22SDE%22%2C+focus%3A+%22LLM+Orchestration%22+%7D%3B;building+multi-tenant+SaaS+at+enterprise+scale...;stack%3A+TypeScript+·+.NET+Core+·+React+·+Rust%2FTauri;currently+shipping+%40+CEI+Workforce+AI+Platform;open+to+interesting+problems+%26+collaborations+%3E_"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=800&height=50&lines=const+engineer+%3D+%7B+role%3A+%22SDE%22%2C+focus%3A+%22LLM+Orchestration%22+%7D%3B;building+multi-tenant+SaaS+at+enterprise+scale...;stack%3A+TypeScript+%7C+.NET+Core+%7C+React+%7C+Rust%2FTauri;currently+shipping+%40+CEI+Workforce+AI+Platform;open+to+interesting+problems+%26+collaborations+%3E_"/>
 
 </div>
 
